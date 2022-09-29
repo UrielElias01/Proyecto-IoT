@@ -2,8 +2,8 @@
 
 ## Integrantes
 - Ángel Uriel Elías Velázquez
-- Nombre y Apellidos del segundo integrante
-- Nombre y Apellidos del tercer integrante
+- Fernando Arvizu Sotelo
+- Victor Javier Otero Vizcayno
 - Nombre y Apellidos del cuarto integrante
 
 ## Objetivo general
