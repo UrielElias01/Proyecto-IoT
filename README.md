@@ -9,9 +9,9 @@
 ## Objetivo general
 Parrafo con el objetivo general
 ### Objetivos específicos
-- Elemento 1 de la lista de objetivos específicos
-- Elemento 2 de la lista de objetivos específicos
-- Elemento 3 de la lista de objetivos específicos
+- analizar la problematica a resolver
+- propuesta de solución del problema
+- desarrollo del proyecto de
 - Elemento 4 de la lista de objetivos específicos
 ...
 - Elemento n de la lista de objetivos específicos
