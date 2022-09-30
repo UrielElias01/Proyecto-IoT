@@ -19,16 +19,16 @@ Parrafo con el objetivo general
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
+|1|          |         |      |
 |    |          |         |      |
 |    |          |         |      |
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|    |            |             |        |          |             |
-|    |            |             |        |          |             |
-|    |            |             |        |          |             |
+|1|            |             |        |          |             |
+|2|            |             |        |          |             |
+|3|            |             |        |          |             |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 - Elemento de la lista de épicas del proyecto
