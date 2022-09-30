@@ -1,4 +1,4 @@
-# ProjectsIoT2022
+# ProjectoIoT- ZL1
 
 ## Integrantes
 - Ángel Uriel Elías Velázquez
