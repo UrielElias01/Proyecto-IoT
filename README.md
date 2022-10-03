@@ -27,9 +27,7 @@ brazalete y plantillas con pantalla enfocado a usuarios centrados en el uso rudo
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 |1|ESP32|El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos. |![image](https://user-images.githubusercontent.com/107594036/193602527-2d701193-9d1c-4dba-9fb1-a5539920d85a.png)|1|150|
-|2|Módulo GPS|Este módulo GPS se basa en el u-blox NEO-6M, posee antena y EEPROM integradas, presenta una gran precisión y su uso es muy simple.
-La comunicación del módulo se realiza por medio de un puerto serial, posee 4 pines, VCC, RX, TX y GND.
-Debido a su tamaño reducido y por poseer una antena integrada, el módulo se aplica perfectamente en aplicaciones sencillas y proyectos DIY.|![image](https://user-images.githubusercontent.com/107594036/193604267-594df479-8b7b-486b-b18b-80dbb552c2a1.png)|1|180|
+|2|Módulo GPS|Este módulo GPS se basa en el u-blox NEO-6M, posee antena y EEPROM integradas, presenta una gran precisión y su uso es muy simple.La comunicación del módulo se realiza por medio de un puerto serial, posee 4 pines, VCC, RX, TX y GND.Debido a su tamaño reducido y por poseer una antena integrada, el módulo se aplica perfectamente en aplicaciones sencillas y proyectos DIY.|![image](https://user-images.githubusercontent.com/107594036/193604267-594df479-8b7b-486b-b18b-80dbb552c2a1.png)|1|180|
 |3|Sensor de Humedad y Temperatura DHT11|Una de las ventajas que nos ofrece el DHT11, además de medir la temperatura y la humedad, es que es digital. A diferencia de sensores como el LM35, este sensor utiliza un pin digital para enviarnos la información y por lo tanto, estaremos más protegidos frente al ruido.|![image](https://user-images.githubusercontent.com/107594036/193605255-b7d45247-549a-4afd-94ba-d57c1dd95081.png)|1|135|
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
