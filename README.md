@@ -7,7 +7,7 @@
 - Nombre y Apellidos del cuarto integrante
 
 ## Objetivo general
-Parrafo con el objetivo general
+brazalete y plantillas con pantalla enfocado a usuarios centrados en el uso rudo del dispositivo como exploracion o uso militar que da un diagnóstico general del usuario tomando medidas de peso, ritmo cardiaco, temperatura y humedad del ambiente y localización del usuario que porta el dispositivo. 
 ### Objetivos específicos
 - analizar la problematica a resolver
 - propuesta de solución del problema
